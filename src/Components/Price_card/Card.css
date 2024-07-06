@@ -1,0 +1,21 @@
+.child{
+    
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    width:30%
+}
+.button{
+    text-align: center;
+    padding-bottom: 20px;;
+}
+.features{
+    margin-top:30px;
+}
+.text{
+    font-size: 15px;
+    
+}
+.space{
+    margin:5px;
+}

@@ -1,0 +1,116 @@
+[
+    {
+      "type": "FREE",
+      "price": 0,
+      "features": [
+        {
+          "name": "Single User",
+          "available": true
+        },
+        {
+          "name": "50 GB storage",
+          "available": true
+        },
+        {
+          "name": "Unlimited public Projecrts",
+          "available": true
+        },
+        {
+            "name": "Community Access",
+            "available": true
+          },
+          {
+            "name": "Unlimited private projects",
+            "available": false
+          },
+          {
+            "name": "Dedicated phone support",
+            "available": false
+          },
+          {
+            "name": "Free subdomain",
+            "available": false
+          },
+          {
+            "name": "Monthly status reports",
+            "available": false
+          }
+      ]
+    },
+    {
+      "type": "PLUS",
+      "price": 9,
+      "features": [
+        {
+            "name": "Single User",
+            "available": true
+          },
+          {
+            "name": "50 GB storage",
+            "available": true
+          },
+          {
+            "name": "Unlimited public Projecrts",
+            "available": true
+          },
+          {
+              "name": "Community Access",
+              "available": true
+            },
+            {
+              "name": "Unlimited private projects",
+              "available": true
+            },
+            {
+              "name": "Dedicated phone support",
+              "available": true
+            },
+            {
+              "name": "Free subdomain",
+              "available": true
+            },
+            {
+              "name": "Monthly status reports",
+              "available": false
+            }
+      ]
+    },
+    {
+        "type": "PRO",
+        "price": 49,
+        "features": [
+            {
+                "name": "Single User",
+                "available":true
+              },
+              {
+                "name": "50 GB storage",
+                "available": true
+              },
+              {
+                "name": "Unlimited public Projecrts",
+                "available": true
+              },
+              {
+                  "name": "Community Access",
+                  "available": true
+                },
+                {
+                  "name": "Unlimited private projects",
+                  "available": true
+                },
+                {
+                  "name": "Dedicated phone support",
+                  "available": true
+                },
+                {
+                  "name": "Free subdomain",
+                  "available": true
+                },
+                {
+                  "name": "Monthly status reports",
+                  "available": true
+                }
+        ]
+      }
+  ]
